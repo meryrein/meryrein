@@ -4,3 +4,6 @@ html body{
 .container h1{
 	text-align:center;
 }
+.container{
+	width:60%;
+}
